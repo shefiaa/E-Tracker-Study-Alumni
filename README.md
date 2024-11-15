@@ -23,8 +23,8 @@ E-Tracker Study Alumni adalah aplikasi berbasis digital yang dirancang untuk mel
 ![alt text](<Halaman Daftar.jpg>)
 ![alt text](<Halaman Login.jpg>)
 ![alt text](<Halaman Utama.jpg>)
-![alt text](<Halaman Daftar Alumni.jpg.jpg>)
-![alt text](<Halaman Informasi Lowongan Pekerjaan.jpg.jpg>)
+![alt text](<Halaman Daftar Alumni.jpg>)
+![alt text](<Halaman Informasi Lowongan Pekerjaan.jpg>)
 
 ## Cara Menjalankan Proyek
 
